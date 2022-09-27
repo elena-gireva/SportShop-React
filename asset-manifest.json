@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SportShop-React/static/css/main.6e945d86.css",
+    "main.js": "/SportShop-React/static/js/main.3a7940fc.js",
+    "static/js/787.eddce749.chunk.js": "/SportShop-React/static/js/787.eddce749.chunk.js",
+    "static/media/team.jpg": "/SportShop-React/static/media/team.ce6582f9865cf3e2f8fe.jpg",
+    "static/media/pro-sport.svg": "/SportShop-React/static/media/pro-sport.a5e5428c988b18a7c2fc0ab0646882ee.svg",
+    "index.html": "/SportShop-React/index.html",
+    "main.6e945d86.css.map": "/SportShop-React/static/css/main.6e945d86.css.map",
+    "main.3a7940fc.js.map": "/SportShop-React/static/js/main.3a7940fc.js.map",
+    "787.eddce749.chunk.js.map": "/SportShop-React/static/js/787.eddce749.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e945d86.css",
+    "static/js/main.3a7940fc.js"
+  ]
+}
